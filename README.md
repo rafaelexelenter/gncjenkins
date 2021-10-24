@@ -7,7 +7,7 @@
  1. Open Git bash 
  2. Clone repository locally by running hte following command
       
-      `` https://github.com/rafcasto/WestpacUITest.git `` 
+      `` https://github.com/rafaelexelenter/gncjenkins.git `` 
  
  3. Open IntelliJ 
  4. Click on File > Open 
